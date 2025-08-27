@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 6293a795033ff4742a55c57cea224f2b
+  - enabled: 1
+    path: Assets/Scenes/401Front.unity
+    guid: 3453c65a468e2f44abf040a90d9c332b
+  - enabled: 1
+    path: Assets/Scenes/401Back.unity
+    guid: 9667e850c5e0ac74294d7dadd83b365b
+  - enabled: 1
+    path: Assets/Scenes/402Front.unity
+    guid: 7865b89e63497df4c9d72ccc148d1e85
+  - enabled: 1
+    path: Assets/Scenes/402Middle.unity
+    guid: 0a2e27a8904c1574fb2e95373129ea54
+  - enabled: 1
+    path: Assets/Scenes/402Back.unity
+    guid: c1340b7a1df06384280852c6fc941611
+  - enabled: 1
+    path: Assets/Scenes/403Front.unity
+    guid: f135967e95a65a443bac18fc8eb0dbf0
+  - enabled: 1
+    path: Assets/Scenes/403Middle.unity
+    guid: 4d33878f1127b704c9ead766409da31b
+  - enabled: 1
+    path: Assets/Scenes/403Back.unity
+    guid: 4570b6a91fc76d44cb9f1ee835bdd85e
+  - enabled: 1
+    path: Assets/Scenes/408Front.unity
+    guid: 09cefa0e306157a478397c5605f171e7
+  - enabled: 1
+    path: Assets/Scenes/408Back.unity
+    guid: a241bea088dd2964098cc0a666bad9c3
+  - enabled: 1
+    path: Assets/Scenes/back_pass0.unity
+    guid: 6393c60db012d1940a5963bed7be55ad
+  - enabled: 1
+    path: Assets/Scenes/back_pass1.unity
+    guid: 808cf2ed6bf538741a8869a1ec208fbe
+  - enabled: 1
+    path: Assets/Scenes/back_pass2.unity
+    guid: 688a16ead84eb684a80d4d30ac2c7dbd
+  - enabled: 1
+    path: Assets/Scenes/back_pass3.unity
+    guid: 4036f78d3aa10fa42a3befbddfeeeaea
+  - enabled: 1
+    path: Assets/Scenes/pass.unity
+    guid: ffa425fce1b475a43adf2594f8fdf05b
+  - enabled: 1
+    path: Assets/Scenes/pass1.unity
+    guid: e08015aadd7f4214fad0b101d1580f97
+  - enabled: 1
+    path: Assets/Scenes/pass2.unity
+    guid: d2ba427345d4fd1439277ea9ea623cd4
+  - enabled: 1
+    path: Assets/Scenes/pass3.unity
+    guid: 793b95affee7ca64c94bcbbe25f87486
+  - enabled: 1
+    path: Assets/Scenes/pass4.unity
+    guid: b6048c08cbbf59444804e4637bb64bcd
+  - enabled: 1
+    path: Assets/Scenes/pass1_1.unity
+    guid: c5b918f349ce49341b348acb76a3b4bd
+  - enabled: 1
+    path: Assets/Scenes/class.unity
+    guid: 647e91ddc74515542993e7a5d858cff2
+  m_configObjects: {}
